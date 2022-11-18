@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vai0888
 - 👀 I’m interested in Data analyst
-- 🌱 I’m currently Data science
+- 🌱 I’m currently  Data scientist
+-     My goal is become AI Scientist in domainof(retail,marketing,supply chain)
 - 💞️ I’m looking to collaborate on any group
 - 📫 How to reach me ...
 
